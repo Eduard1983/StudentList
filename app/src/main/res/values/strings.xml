@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentList</string>
+    <string name="man">Man</string>
+    <string name="FirstName">FirstName</string>
+    <string name="LastName">LastName</string>
+    <string name="student">Student</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="create">Create</string>
+    <string name="full_name">FullName</string>
+</resources>
